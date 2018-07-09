@@ -1,0 +1,12 @@
+You really went dumpster diving? Amazing. After many hours, SUCCESS! 
+Between what looks like a three week old casserole and a copy of "Relative-Time Magazine", 
+you found this important looking letter about the victims PC. However the credentials aren't readable 
+- can you still obtain them?
+
+First of all, you are presented with a ZIP file. You need to unzip the file to see that there is a pdf inside.
+
+Open up the pdf firefox pdfname.pdf
+
+The first thing visble should be the highlighted text. The Highlight is the same color as the text itself. Highlight 
+this and copy the text to find the flag.
+
